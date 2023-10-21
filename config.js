@@ -7,7 +7,7 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['919074692450', 'ABHISHEK-SURESH', true],
+  ['923150513637', 'MR-UZAIR', true],
   [''],
   [''] 
 ] //Number of owners
@@ -47,16 +47,16 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝙴𝚁'
+global.botname = 'ZARII-𝚂𝙴𝚁'
 global.premium = 'true'
-global.packname = '𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝙴𝚁🎯𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝚄𝚁𝙴𝚂𝙷☘️' 
-global.author = 'ABHISHEK SURESH' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/abhishek_ser\n' 
+global.packname = 'ZARRI HUN YWL_' 
+global.author = 'MR UZAIR' 
+global.igfg = '▢ Follow on Instagram\nhttps://instagram.com/its_meh_uzair?igshid=NGVhN2U2NjQ0Yg==\n' 
 global.dygp = 'https://chat.whatsapp.com/BOLb0ICN3sAJ5dloRBw5VD'
 global.fgsc = 'https://github.com/AbhishekSuresh2/ABHISHEK-SER' 
 global.fgyt = 'https://youtube.com/@comedymelodych8468'
 global.fgpyp = 'https://youtube.com/@comedymelodych8468'
-global.fglog = 'https://replicate.delivery/pbxt/QbP6Fh3ZXwKON9SCB70ERGwwgeeSbztwKIOIzhUeXFkwnFHiA/out.png' 
+global.fglog = 'https://i.imgur.com/oxpT3LU.jpeg' 
 
 //imagen
 global.imagen1 = fs.readFileSync('./src/Abhi.jpg')
